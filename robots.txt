@@ -1,0 +1,12 @@
+# Saiteja Asset Management - Robots.txt
+# This file helps search engines crawl your website
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://gtirljzgrpd1.space.minimax.io/sitemap.xml
+
+# Disallow admin/private folders (if any)
+Disallow: /css/
+Disallow: /js/
