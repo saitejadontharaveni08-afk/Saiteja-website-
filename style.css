@@ -413,9 +413,9 @@ p {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding: 120px 0 80px;
+    padding: 80px 0 80px;
     background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%);
-    overflow: hidden;
+    overflow: visible;
 }
 
 .hero::before {
